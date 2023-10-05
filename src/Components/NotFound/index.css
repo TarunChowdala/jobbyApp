@@ -1,0 +1,16 @@
+.not-found-container {
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-heading {
+  color: white;
+  font-size: 25px;
+}
+.not-found-para {
+  color: white;
+  font-size: 14px;
+}
